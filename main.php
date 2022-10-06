@@ -21,7 +21,8 @@
 
             <div class="data">
                 <div class="myImg">
-                    <?php  echo '<img src="/img/php.jpg">'; ?>                    
+                    <?php  echo '<img width=300 src="./img/php.jpg">'; ?> 
+                     
                 </div>
 
                 <div class="fullname">
